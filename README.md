@@ -6,7 +6,7 @@ This project is a simple yet (another) interpreter written in C. Inspired by boo
 
 ## Features
 
-- Dynamic execution of C code.
+- Dynamic execution of code.
 - Interactive mode for testing and debugging.
 
 ## Work in progress
